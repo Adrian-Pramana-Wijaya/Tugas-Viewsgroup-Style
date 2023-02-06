@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Views And ViewGroup</string>
+    <string name="Deskripsi">Google secara resmi mengumumkan ponsel Pixel yang sangat dinantikan; Pixel dan Pixel XL, pada 4 Oktober. Kami menghadiri acara Google London UK, mencerminkan acara utama yang berlangsung di San Francisco, AS, di mana perusahaan tersebut membuka bungkus perangkat Android 7.1 Nougat baru yang tampaknya akan merebut seri Nexus lama Google.</string>
+    <string name="content_specs_display"></string>
+    <string name="content_specs_displa">2022</string>
+    <string name="content_specs_size">2G, 3G, 4G, 5G</string>
+    <string name="content_specs_battery">Dual SIM (Slot Khusus)</string>
+    <string name="stock">(Variant 6/128 GB), (Variant 12/256 GB)</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="Umum">Tahun Rilis</string>
+    <string name="Jaringan">Jaringan</string>
+    <string name="Sim_Card">Sim Card</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Adrian Pramana Wijaya</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">Rp. 9.710.000,00</string>
+    <string name="dummy_photos">6 photos</string>
+    <string name="Detail">Detail Produk</string>
+    <string name="Ulasan">Ulasan</string>
+    <string name="uuu">Deskripsi</string>
+    <string name="eSIM">eSIM</string>
+    <string name="Tidak">Tidak</string>
+    <string name="Body">BODY</string>
+
+</resources>
